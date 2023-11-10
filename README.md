@@ -16,11 +16,12 @@
 ## Results
 <br>Labels
 <br>
-![val_batch0_labels](https://github.com/shreehari-divate/Human-activity-detection/assets/147906812/65290ecd-9ed8-4c1f-8c26-f83cc787b620)
+![val_batch0_labels](https://github.com/shreehari-divate/Human-activity-detection/assets/147906812/27fe646a-2d64-46cf-a882-ec043fdb9fd5)
+
 <br>
 Prediction
 <br>
-![val_batch0_pred](https://github.com/shreehari-divate/Human-activity-detection/assets/147906812/298c37b5-4896-4406-9ef0-cd4a255c2058)
+![val_batch0_pred](https://github.com/shreehari-divate/Human-activity-detection/assets/147906812/575d2ff8-65a7-42d7-9802-4d9b02d4990d)
 
 <br>
 <br>
