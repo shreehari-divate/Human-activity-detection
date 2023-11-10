@@ -23,3 +23,5 @@ Prediction
 <br>
 ![val_batch0_pred](https://github.com/shreehari-divate/Human-activity-detection/assets/147906812/575d2ff8-65a7-42d7-9802-4d9b02d4990d)
 
+## Drive Link
+<br>https://drive.google.com/drive/folders/19Tm7zoa21vyrzOxufX3VSsFTrNeU6T33?usp=sharing
