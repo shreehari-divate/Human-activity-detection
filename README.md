@@ -7,9 +7,9 @@
 <br>Python
 <br>YOLO
 ## Workflow
-<br>* Downloading open source images.
-<br>* Creating directory named Activity Detection which contains three subfolders train,test and valid. Each of these subfolders contains images where anoted images are present and labels where labelling is done on image. This labels contains .txt file having information of bounding box created on image.
-<br>* Here I have used pre-trained model yolov8s for detection as it is small dataset.
+* Downloading open source images.
+* Creating directory named Activity Detection which contains three subfolders train,test and valid. Each of these subfolders contains images where anoted images are present and labels where labelling is done on image. This labels contains .txt file having information of bounding box created on image.
+* Here I have used pre-trained model yolov8s for detection as it is small dataset.
 ## Conclusion
 <br>Considering that my dataset is small, model performs well on test dataset and differinates between other activities.
 
